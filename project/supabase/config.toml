@@ -1,0 +1,2 @@
+[functions.telegram-reserve]
+verify_jwt = false
